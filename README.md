@@ -258,8 +258,8 @@ If you encounter any issues or have questions about the project, feel free to re
 
 If you have a team working on this project, you can list all the team members here along with their roles and GitHub profiles.
 
-  **1.  [Kiruthiga E](https://github.com/KiruthigaE-16/)**- Project Lead & Frontend Developer.\
-  **2.  [Anish Fathima S](https://github.com/AnishS-21/)** - Backend Developer.\
-  **3.  [Komala B](https://github.com/KomalaB-14/)** – Frontend Developer.\
-  **4.  [Manjushree V](https://github.com/Manjushree8/)** – UI/UX Designer .\
-  **5.  [Karthiga P](https://github.com/Karthiga0121/)** – Database Administrator & Quality Assurance.
+  **1.  [Kiruthiga E](https://github.com/KiruthigaE-16/)**\
+  **2.  [Anish Fathima S](https://github.com/AnishS-21/)**\
+  **3.  [Komala B](https://github.com/KomalaB-14/)**\
+  **4.  [Manjushree V](https://github.com/Manjushree8/)**\
+  **5.  [Karthiga P](https://github.com/Karthiga0121/)**
