@@ -21,8 +21,8 @@ To get started with the project, clone the repository and install the necessary 
 
 **Open In Editor**
 
-    git clone <repository-url>
-    cd online-grocery-store
+    git clone (https://github.com/KiruthigaE-16/Grocery-Web-App-Naan-Mudhalvan)
+    cd online-grocery-web-app
     
 ## Prerequisites
 Make sure you have the following installed:
