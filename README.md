@@ -248,7 +248,7 @@ For more information about the technologies used in this project, you can refer 
 If you encounter any issues or have questions about the project, feel free to reach out for support.
 
 -  [Kiruthiga E](https://github.com/KiruthigaE-16/)
--  Email: kiruthigae.cse2021@dscet.ac
+-  Email: kiruthigae.cse2021@dscet.ac.in
 
 ## Authors
 
