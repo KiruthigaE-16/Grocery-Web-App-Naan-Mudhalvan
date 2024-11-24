@@ -2,19 +2,21 @@
 This project is an online grocery store system built using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to browse products, add items to their cart, and manage their orders seamlessly.
 
 ## Table of Contents
-  - Getting Started
-  - Available Scripts
-  - Features
-  - Technologies Used
-  - Project Structure
-  - API Integration
-  - Styling
-  - Testing
-  - Deployment
-  - Learn More
-  - Support  
-  - Authors
-  - Team Members
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Running the Application](#running-the-application)
+- [Available Scripts](#available-scripts)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [API Integration](#api-integration)
+- [Styling](#styling)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Learn More](#learn-more)
+- [Support](#support)
+- [Authors](#authors)
+- [Team Members](#team-members)
 
 ## Getting Started
 To get started with the project, clone the repository and install the necessary dependencies:
