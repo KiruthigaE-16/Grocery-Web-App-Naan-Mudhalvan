@@ -256,8 +256,6 @@ If you encounter any issues or have questions about the project, feel free to re
 
 ## Team Members
 
-If you have a team working on this project, you can list all the team members here along with their roles and GitHub profiles.
-
   **1.  [Kiruthiga E](https://github.com/KiruthigaE-16/)**\
   **2.  [Anish Fathima S](https://github.com/AnishS-21/)**\
   **3.  [Komala B](https://github.com/KomalaB-14/)**\
